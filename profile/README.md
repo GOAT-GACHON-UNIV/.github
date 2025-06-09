@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>🚀 GOAT Team 🚀</h1>
-  <strong>(Gachon University Organization of Aerospace Technology)</strong>
+  <h1>🚀 GOAT Team 🚀<br><strong>(Gachon University Organization of Aerospace Technology)</strong></h1>
 </div>
 
 가천대학교 로켓동아리 GOAT의 GitHub에 오신 것을 환영합니다.
