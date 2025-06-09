@@ -49,9 +49,6 @@
 </table>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIHYEON06&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYEON06&layout=compact&theme=dracula" />
-</div>
+![Repos](https://img.shields.io/badge/Public_Repos-5-blue)
 
 
