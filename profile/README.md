@@ -1,162 +1,47 @@
-# 🚀 GOAT Avionics Team 💻
-Welcome to the GitHub organization for the Avionics Team of the GOAT Rocket Club at Gachon University. 
+# 🚀 GOAT Team 🚀
+가천대학교 로켓동아리 GOAT의 GitHub에 오신 것을 환영합니다.
 
 ## About Us
 
-We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused on developing and implementing electronic systems for our rocket projects. Our primary areas of expertise include:
+저희는 설계부, 추진부, 전자부로 나누어져 있으며, 각 부서는 로켓 프로젝트의 에에비오닉스 개발 및 동체, 엔진 설계 및 추진 실험등을 진행합니다. 2025년도의 주요 목표는 다음과 같습니다.
 
-- 🪂**Parachute Deployment Systems**: Designing and coding reliable mechanisms for safe parachute deployment.
-- 📡**Data Collection and Communication**: Developing robust systems for collecting telemetry data and ensuring effective communication between our rockets and ground control.
-- 💻**Monitoring Website**: Building a website for real-time monitoring and analysis of flight data and system status.
+- 🪂**화약식 낙하산 사출 시스템**: 크림슨 파우더를 통해 화약 사출 방식을 개발합니다.
+- 📡**데이터 통신**: 에비오닉스와 지상 컨트롤 시스템과 통신을 개발합니다.
+- 💻**실시간 데이터 모니터링**: 실시간 모니터링을 통해 값을 실시간으로 시각화 및 제어하는는 MCC를 개발합니다.
 
 ## Members
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/agtmwebtoon" target="_blank">
-        <img src="https://github.com/agtmwebtoon.png?size=230" alt="이민형" />
+      <a href="https://github.com/minjaekl" target="_blank">
+        <img src="https://github.com/minjaekl.png?size=230" alt="김민재" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/doondu" target="_blank">
-        <img src="https://github.com/doondu.png?size=230" alt="김윤수" />
+      <a href="https://github.com/yurii0205" target="_blank">
+        <img src="https://github.com/yurii0205.png?size=230" alt="서유리" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/chaos1231107" target="_blank">
-        <img src="https://github.com/chaos1231107.png?size=230" alt="박건우" />
+      <a href="https://github.com/Jihyeon06" target="_blank">
+        <img src="https://github.com/Jihyeon06.png?size=230" alt="전지민" />
       </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/taeseokyang" target="_blank">
-        <img src="https://github.com/taeseokyang.png?size=230" alt="양태석" />
-      </a>
-    </td>
   </tr>
     <tr>
    <td align="center">
-      <a href="https://github.com/agtmwebtoon" target="_blank">
-        이민형
+      <a href="https://github.com/minjaekl" target="_blank">
+        김민재
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/doondu" target="_blank">
-        김윤수
+      <a href="https://github.com/yurii0205" target="_blank">
+        서유리
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/chaos1231107" target="_blank">
-        박건우
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/taeseokyang" target="_blank">
-        양태석
+      <a href="https://github.com/Jihyeon06" target="_blank">
+        전지민
       </a>
     </td>
   </tr>
-    <tr>
-    <td align="center" width="150px">
-      <a href="https://github.com/ys0819" target="_blank">
-        <img src="https://github.com/ys0819.png?size=230" alt="박연서" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/measaverb" target="_blank">
-        <img src="https://github.com/measaverb.png?size=230" alt="김영한" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/Kominwoo02" target="_blank">
-        <img src="https://github.com/Kominwoo02.png?size=230" alt="고민우" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/mj051231" target="_blank">
-        <img src="https://github.com/mj051231.png?size=230" alt="김민준" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-   <td align="center">
-      <a href="https://github.com/ys0819" target="_blank">
-        박연서
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/measaverb" target="_blank">
-        김영한
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/Kominwoo02" target="_blank">
-        고민우
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/mj051231" target="_blank">
-        김민준
-      </a>
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="150px">
-      <a href="https://github.com/mj051231" target="_blank">
-        <img src="https://github.com/mj051231.png?size=230" alt="최민혁" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/yewonkimmm" target="_blank">
-        <img src="https://github.com/yewonkimmm.png?size=230" alt="김예원" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/Westzer00" target="_blank">
-        <img src="https://github.com/Westzer00.png?size=230" alt="김서영" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-   <td align="center">
-      <a href="https://github.com/mj051231" target="_blank">
-        최민혁
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/yewonkimmm" target="_blank">
-        김예원
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/Westzer00" target="_blank">
-        김서영
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Annual Team Photos
-
-<table>
-  <tr>
-    <td align="center" width="400px">
-        <img src="https://github.com/AvionicsOfGOAT/Document/blob/main/image/2021.jpg?size=230" alt="2021" />
-    </td>
-    <td align="center" width="400px">
-        <img src="https://github.com/AvionicsOfGOAT/Document/blob/main/image/2022.jpg?size=230" alt="2022" />
-    </td>
-    <td align="center" width="400px">
-        <img src="https://github.com/AvionicsOfGOAT/.github/assets/136783693/6ffd4645-619d-443a-be9d-a19f6c9b249f?size=230" alt="2023" />
-    </td>
-  </tr>
-    <tr>
-   <td align="center">
-      2021
-    </td>
-   <td align="center">
-      2022
-    </td>
-   <td align="center">
-      2023
-    </td>
 </table>
