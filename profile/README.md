@@ -48,8 +48,4 @@
   </tr>
 </table>
 
-###
-![Organization Activity](./assets/org-activity.png)
-![Repos](https://img.shields.io/badge/Public_Repos-5-blue)
-
 
