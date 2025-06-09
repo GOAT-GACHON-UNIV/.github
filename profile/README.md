@@ -50,8 +50,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOAT-GACHON-UNIV&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GOAT-GACHON-UNIV&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GOAT-GACHON-UNIV&repo=-ARD-IMU&theme=dracula" />
 </div>
 
 
