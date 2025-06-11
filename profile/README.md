@@ -48,14 +48,10 @@
   </tr>
   <tr>
    <td align="center">
-      <a href="https://github.com/minjaekl" target="_blank">
         부회장
-      </a>
     </td>
    <td align="center">
-      <a href="https://github.com/yurii0205" target="_blank">
         전자부장
-      </a>
     </td>
    <td align="center">
         설계팀장
