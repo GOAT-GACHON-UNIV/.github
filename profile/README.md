@@ -58,9 +58,7 @@
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/Jihyeon06" target="_blank">
         설계팀장
-      </a>
     </td>
   </tr>
 </table>
