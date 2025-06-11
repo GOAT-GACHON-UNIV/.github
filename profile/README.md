@@ -29,7 +29,7 @@
         <img src="https://github.com/Jihyeon06.png?size=230" alt="전지민" />
       </a>
   </tr>
-    <tr>
+  <tr>
    <td align="center">
       <a href="https://github.com/minjaekl" target="_blank">
         김민재
@@ -43,6 +43,23 @@
    <td align="center">
       <a href="https://github.com/Jihyeon06" target="_blank">
         전지민
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/minjaekl" target="_blank">
+        부회장
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/yurii0205" target="_blank">
+        전자부장
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/Jihyeon06" target="_blank">
+        설계팀장
       </a>
     </td>
   </tr>
