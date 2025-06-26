@@ -28,6 +28,12 @@
       <a href="https://github.com/Jihyeon06" target="_blank">
         <img src="https://github.com/Jihyeon06.png?size=230" alt="전지민" />
       </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/chaos1231107" target="_blank">
+        <img src="https://github.com/chaos1231107.png?size=230" alt="박건우" />
+      </a>
+    </td>
   </tr>
   <tr>
    <td align="center">
@@ -45,6 +51,11 @@
         전지민
       </a>
     </td>
+   <td align="center">
+      <a href="https://github.com/chaos1231107" target="_blank">
+        박건우
+      </a>
+    </td>
   </tr>
   <tr>
    <td align="center">
@@ -55,6 +66,9 @@
     </td>
    <td align="center">
         설계팀장
+    </td>
+    <td align="center">
+        전자부원
     </td>
   </tr>
 </table>
