@@ -44,8 +44,8 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/yurii0205" target="_blank">
-        <img src="https://github.com/yurii0205.png?size=230" alt="서유리" />
+      <a href="https://github.com/chaos1231107" target="_blank">
+        <img src="https://github.com/chaos1231107.png?size=230" alt="박건우" />
       </a>
     </td>
     <td align="center" width="150px">
@@ -54,8 +54,8 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/chaos1231107" target="_blank">
-        <img src="https://github.com/chaos1231107.png?size=230" alt="박건우" />
+      <a href="https://github.com/YongJin04" target="_blank">
+        <img src="https://github.com/YongJin04.png?size=230" alt="김용진" />
       </a>
     </td>
   </tr>
@@ -66,8 +66,8 @@
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/yurii0205" target="_blank">
-        서유리
+      <a href="https://github.com/chaos1231107" target="_blank">
+        박건우
       </a>
     </td>
    <td align="center">
@@ -75,9 +75,9 @@
         전지민
       </a>
     </td>
-   <td align="center">
-      <a href="https://github.com/chaos1231107" target="_blank">
-        박건우
+    <td align="center">
+      <a href="https://github.com/YongJin04" target="_blank">
+        김용진
       </a>
     </td>
   </tr>
@@ -89,7 +89,7 @@
         전자부장
     </td>
    <td align="center">
-        설계팀장
+        연구팀장
     </td>
     <td align="center">
         전자부원
